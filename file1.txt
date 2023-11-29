@@ -1,3 +1,4 @@
 14주차 클라우드 및 깃허브 실습
 소스트리 GUI와 CLI 실습 비교
 14_chird_cli_exe1
+14_chird_cli_exe2
