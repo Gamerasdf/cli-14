@@ -2,3 +2,4 @@
 소스트리 GUI와 CLI 실습 비교
 14_chird_cli_exe1
 14_chird_cli_exe2
+some hot fix add 
