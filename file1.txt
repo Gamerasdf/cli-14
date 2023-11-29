@@ -2,4 +2,8 @@
 소스트리 GUI와 CLI 실습 비교
 14_chird_cli_exe1
 14_chird_cli_exe2
+<<<<<<< HEAD
 some hot fix add 
+=======
+깃허브 기능1 추가
+>>>>>>> b663ca8 (14주차-새로운 깃허브 기능1 추가)
